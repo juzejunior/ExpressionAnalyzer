@@ -1,7 +1,7 @@
 # ExpressionAnalyzer
 
 # Using
-gcc lexical.c -o test
+gcc lexical.c -o test__
 ./test arquivo.cmm
 
 # TODO
