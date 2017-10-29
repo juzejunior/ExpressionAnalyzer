@@ -4,5 +4,5 @@
 gcc lexical.c -o test
 ./test arquivo.cmm
 
-#TODO
+# TODO
 Add Parser Logic
